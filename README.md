@@ -1,1 +1,1 @@
-[![Kirill's GitHub stats](https://github-readme-stats-ochre-seven-80.vercel.app/api?username=darktau21)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs in repositories](https://github-readme-stat-sochre-seven-80.vercel.app/api/top-langs/?username=darktau21)]
