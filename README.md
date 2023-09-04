@@ -1,1 +1,1 @@
-[![Top Langs in repositories](https://github-readme-stat-sochre-seven-80.vercel.app/api/top-langs/?username=darktau21)]
+[![Top Langs in repositories](https://github-readme-stats-ochre-seven-80.vercel.app/api/top-langs/?username=darktau21)]
