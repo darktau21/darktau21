@@ -1,4 +1,4 @@
-## Some stats 📊
+## Stats 📊
 <p align="center">
   <picture>
     <source
